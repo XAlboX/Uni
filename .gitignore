@@ -2,3 +2,4 @@
 *.exe
 */output/
 output/
+.gitignore
